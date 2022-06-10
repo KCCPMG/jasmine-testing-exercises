@@ -41,6 +41,3 @@ describe("submitPaymentInfo tests", function() {
 });
 
 
-// createCurPayment tests
-
-

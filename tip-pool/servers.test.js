@@ -19,7 +19,5 @@ describe("Servers test (with setup and tear-down)", function() {
     document.querySelector("#paymentTable tbody tr")?.remove();
     document.querySelector("#serverTable tbody tr")?.remove();
 
-
-
   });
 });
